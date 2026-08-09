@@ -1,0 +1,6 @@
+{
+  "name": "What If? Universe Simulator",
+  "description": "A planetary sandbox simulator to explore astronomical, atmospheric, surface, and habitability scenarios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
